@@ -1,10 +1,21 @@
 ## Capgimini
-- Projeto feito em JAVA. O arquivo das questoes se encontra na pasta src <br>
-- Rodar primeiramente o main onde ira aparacer um menu de opçoes para qual questao o usuario quer ir <br>
-Digite 1 - para Questao 1 <br>
-Digite 2 - para Questao 2 <br>
-Digite 3 - para Questao 3 <br>
-Digite 0 - para sair do programa 
+
+## Rodar o projeto 🚴🏻‍♂️
+#### On your machine:
+
+```bash
+# Clone the repository
+$ git clone https://github.com/GabrielMedradoS/Capgimini.git
+
+# Access the project folder at the command prompt
+$ cd Capgimini/src/br/com/questoescapgimini/Main.class
+```
+#### O arquivo das questoes se encontra na pasta src <br>
+##### Rodar primeiramente o main onde ira aparacer um menu de opçoes para qual questao o usuario quer ir 
+- Digite 1 - para Questao 1 <br>
+- Digite 2 - para Questao 2 <br>
+- Digite 3 - para Questao 3 <br>
+- Digite 0 - para sair do programa 
 
 ### Questão 01
 
